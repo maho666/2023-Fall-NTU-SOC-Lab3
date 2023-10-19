@@ -5,9 +5,9 @@
 ## Tap read back - AXI-Lite
 ![image](https://i.imgur.com/xRMyscG.png)
 
-## ap_start(coef_lite[0][0]) asserted @ 
+## ap_start(coef_lite[0][0]) asserted @ 835000 (ns)
 ![image](https://img.onl/0X15Jj)
-## ap_done(coef_lite[0][1]) asserted @ 
+## ap_done(coef_lite[0][1]) asserted @ 84835000 (ns)
 ![image](https://i.imgur.com/4MCx5PD.png)
 #of clock cycles from ap_start to ap_done: 
 (84835000 - 835000) / 10(ns) = 8400 (cycles)
